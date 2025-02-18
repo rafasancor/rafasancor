@@ -16,18 +16,16 @@
 
 🔗 [Meu Portfólio](https://seuportfolio.com)
 
----
+---  
 
 ## Contato  
 
-## 📬 Contato  
-
 <p align="left">
   <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50">
+    <img src="https://skillicons.dev/icons?i=gmail">
   </a>
   <a href="https://linkedin.com/in/rafael-sancor-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50">
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <a href="https://instagram.com/rafasancor">
     <img src="https://skillicons.dev/icons?i=instagram">
