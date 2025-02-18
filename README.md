@@ -20,6 +20,9 @@
 
 ## Contato  
 
-📧 **Email:** [seuemail@email.com](rafaelsancor2003@hotmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seulinkedin](https://linkedin.com/in/rafael-sancor-dev)  
-📸 **Instagram:** [@seuinstagram]([https://instagram.com/seuinstagram](https://www.instagram.com/rafasancor/))  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:seuemail@email.com)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/seulinkedin)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/seuinstagram)  
+
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,instagram)](https://skillicons.dev)
