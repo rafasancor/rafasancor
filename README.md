@@ -20,9 +20,20 @@
 
 ## Contato  
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:seuemail@email.com)  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/seulinkedin)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/seuinstagram)  
+## 📬 Contato  
+
+<p align="left">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40">
+  </a>
+  <a href="https://linkedin.com/in/rafael-sancor-dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40">
+  </a>
+  <a href="https://instagram.com/rafasancor">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40">
+  </a>
+</p>
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,instagram)](https://skillicons.dev)
