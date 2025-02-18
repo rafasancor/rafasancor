@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60">
   </a>
   <a href="https://linkedin.com/in/rafael-sancor-dev">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40">
