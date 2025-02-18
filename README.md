@@ -10,6 +10,28 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,mysql,py,figma,git,github,vscode,windows)](https://skillicons.dev)
 
+teste
+
+## 🛠️ Minhas Habilidades  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40">
+  <img src="https://skillicons.dev/icons?i=css" height="40">
+  <img src="https://skillicons.dev/icons?i=javascript" height="40">
+  <img src="https://skillicons.dev/icons?i=c" height="40">
+  <img src="https://skillicons.dev/icons?i=sql" height="40">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40">
+  <img src="https://skillicons.dev/icons?i=python" height="40">
+  <img src="https://skillicons.dev/icons?i=office" height="40">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40">
+  <img src="https://skillicons.dev/icons?i=figma" height="40">
+  <img src="https://skillicons.dev/icons?i=git" height="40">
+  <img src="https://skillicons.dev/icons?i=github" height="40">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40">
+  <img src="https://skillicons.dev/icons?i=windows" height="40">
+</p>
+
+
 ---
 
 ## Portfólio  
@@ -31,7 +53,3 @@
     <img src="https://skillicons.dev/icons?i=instagram">
   </a>
 </p>
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,instagram)](https://skillicons.dev)
