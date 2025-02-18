@@ -8,12 +8,6 @@
 
 ## Minhas Habilidades  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,mysql,py,figma,git,github,vscode,windows)](https://skillicons.dev)
-
-teste
-
-## 🛠️ Minhas Habilidades  
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40">
   <img src="https://skillicons.dev/icons?i=css" height="40">
