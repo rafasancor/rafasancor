@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Rafael Sancor!
 
 💻 **Desenvolvedor em formação** | 🚀 Apaixonado por tecnologia e aprendizado contínuo  
 
@@ -27,14 +27,14 @@
 
 ## Portfólio  
 
-🔗 [Meu Portfólio](https://seuportfolio.com)
+🔗 [Meu Portfólio](https://rafasancor.github.io/Portfolio/)
 
 ---  
 
 ## Contato  
 
 <p align="left">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:rafaelsancor2003@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light">
   </a>
   <a href="https://linkedin.com/in/rafael-sancor-dev">
