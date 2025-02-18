@@ -24,13 +24,13 @@
 
 <p align="left">
   <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50">
   </a>
   <a href="https://linkedin.com/in/rafael-sancor-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50">
   </a>
   <a href="https://instagram.com/rafasancor">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40">
+    <img src="https://skillicons.dev/icons?i=instagram">
   </a>
 </p>
 
