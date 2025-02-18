@@ -27,7 +27,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,mysql,py,figma,git,github,windows,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,mysql,py,figma,git,github,vscode,windows)](https://skillicons.dev)
 ---
 ## Portfólio  
 
