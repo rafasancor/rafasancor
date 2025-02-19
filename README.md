@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Sancor!
 
-💻 **Desenvolvedor em formação** | 🚀 Apaixonado por tecnologia e aprendizado contínuo  
+💻 **Desenvolvedor em formação** | Apaixonado por tecnologia e aprendizado contínuo  
 
 > "Transformando ideias em código."
 
