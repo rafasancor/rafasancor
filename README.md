@@ -6,6 +6,12 @@
 
 ---
 
+## Portfólio  
+
+🔗 [Meu Portfólio](https://rafasancor.github.io/Portfolio/)
+
+---
+
 ## Minhas Habilidades  
 
 <p align="left">
@@ -24,12 +30,6 @@
 
 
 ---
-
-## Portfólio  
-
-🔗 [Meu Portfólio](https://rafasancor.github.io/Portfolio/)
-
----  
 
 ## Contato  
 
