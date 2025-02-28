@@ -2,8 +2,6 @@
 
 💻 **Desenvolvedor em formação** | Apaixonado por tecnologia e aprendizado contínuo  
 
-> "Transformando ideias em código."
-
 ---
 
 ## Portfólio  
