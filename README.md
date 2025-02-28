@@ -18,8 +18,9 @@
   <img src="https://skillicons.dev/icons?i=html" height="40">
   <img src="https://skillicons.dev/icons?i=css" height="40">
   <img src="https://skillicons.dev/icons?i=javascript" height="40">
+  <img src="https://skillicons.dev/icons?i=php" height="40">
   <img src="https://skillicons.dev/icons?i=c" height="40">
-  <img src="https://skillicons.dev/icons?i=c#" height="40">
+  <img src="https://skillicons.dev/icons?i=cs" height="40">
   <img src="https://skillicons.dev/icons?i=java" height="40">
   <img src="https://skillicons.dev/icons?i=mysql" height="40">
   <img src="https://skillicons.dev/icons?i=python" height="40">
