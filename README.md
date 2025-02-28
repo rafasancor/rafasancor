@@ -32,6 +32,34 @@
 
 ---
 
+## 🛠️ Minhas Habilidades  
+
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html" height="40">
+        <img src="https://skillicons.dev/icons?i=css" height="40">
+        <img src="https://skillicons.dev/icons?i=javascript" height="40">
+        <img src="https://skillicons.dev/icons?i=c" height="40">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40">
+        <img src="https://skillicons.dev/icons?i=python" height="40">
+        <br>
+        <img src="https://skillicons.dev/icons?i=figma" height="40">
+        <img src="https://skillicons.dev/icons?i=git" height="40">
+        <img src="https://skillicons.dev/icons?i=github" height="40">
+        <img src="https://skillicons.dev/icons?i=vscode" height="40">
+        <img src="https://skillicons.dev/icons?i=windows" height="40">
+      </p>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasancor&layout=compact">
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Contato  
 
 <p align="left">
