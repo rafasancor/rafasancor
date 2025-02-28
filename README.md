@@ -44,7 +44,6 @@
         <img src="https://skillicons.dev/icons?i=c" height="40">
         <img src="https://skillicons.dev/icons?i=mysql" height="40">
         <img src="https://skillicons.dev/icons?i=python" height="40">
-        <br>
         <img src="https://skillicons.dev/icons?i=figma" height="40">
         <img src="https://skillicons.dev/icons?i=git" height="40">
         <img src="https://skillicons.dev/icons?i=github" height="40">
